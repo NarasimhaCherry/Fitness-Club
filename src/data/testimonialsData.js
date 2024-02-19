@@ -7,19 +7,19 @@ export const testimonialsData = [
     image: image1,
     review:
       "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
+    name: 'SUKESH',
     status : 'ENTREPRENEUR'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
+    review: 'The hard days are the best because thats when champions are made',
+    name: 'NIKHIL',
     status: 'COACH'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
+    review:' The hard days are the best because that’s when champions are made, so if you push through, you can push through anything.',
+    name: 'CHARAN',
     status: "CUSTOMER"
   }
 ];

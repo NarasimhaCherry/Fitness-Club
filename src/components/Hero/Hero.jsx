@@ -14,7 +14,7 @@ const Hero = () => {
             {/* hover animation */}
             <div className='animation'>
                 <div></div>
-                <span>It is what it is.</span>
+                <span>It's Your Workout: Your Time</span>
             </div>
 
             {/* Heading */}
