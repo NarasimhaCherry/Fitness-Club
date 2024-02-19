@@ -1,3 +1,51 @@
+# Title
+
+    Fitness Club Website
+
+## Objective
+
+    In this project i have build an Fitness Club Website which is a Fitness platform trending now-a-days. This project allowed me to pratice the concepts and techniques learned from React Course and apply them in a concrete project.
+    
+    This project made me demonstrate my skills by creating an website that will take use of the react concept like links, hyperlinks, displaying the data and making the website animation using css propretiesad  adding responsivenes to the website.
+    
+In this i have used React.js as fronend part.
+
+## Tech Stack
+
+    Frontend Framework: ReactJS.
+    State Managemet: Local State.
+    Routing: React Router.
+    Styling: CSS.
+    Backend: Node.
+    Database: Google Firebase Authentication.
+
+## Completion Instructions
+
+    ● Users should be able to navigate to Hero, programs, Reasons, Plans, Testimonials, Join, Footer routes using links in Navbar
+
+### Guidelines to develop a project
+
+#### Must Have
+
+    ● Install Node.js
+    ● Install Git --> to deploy project into Github
+    ● npm install --> to install node modules
+    ● npm start --> to view the result
+    
+
+### Submission Instructions
+
+#### Must Have
+
+    ● Open the folder using Git Bash and processed the following commands.
+    ● git init
+    ● git add .
+    ● git status --> to check the files are added or not
+    ● git commit -m "first commit" . --> commit to the repo
+    ● git branch -M main
+    ● git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git) --> it is recommended to create a token and add that in place of the token
+    ● git push -u origin main.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
