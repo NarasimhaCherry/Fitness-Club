@@ -19,3 +19,16 @@
     cursor: pointer;
     color: var(--yellow)
 }
+
+@media screen and (max-width: 768px) {
+    .navbar>:nth-child(2) {
+        position: fixed;
+        right: 2rem;
+        z-index: 99;
+    }
+    .menu{
+        flex-direction: column;
+        background-color: var(--appaColor);
+        padding: 2rem;
+    }
+}
