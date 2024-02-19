@@ -46,6 +46,11 @@ In this i have used React.js as fronend part.
     ● git remote add origin main (url)( https://tokenhere@github.com/user_name/repo_name.git) --> it is recommended to create a token and add that in place of the token
     ● git push -u origin main.
 
+
+###Demo
+
+    https://fitness-club-narasimhacharithartha.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
